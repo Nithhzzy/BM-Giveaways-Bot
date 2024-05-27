@@ -1,0 +1,25 @@
+{
+    "name": "bm-giveaways-bot",
+    "version": "1.0.0",
+    "description": "Giveways Bot using the discord-giveaways package",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+
+    "keywords": [
+        "giveaways",
+        "bot",
+        "discord-giveaways"
+    ],
+    "author": "NithhzZ",
+    "license": "MIT",
+
+    "homepage": "https://github.com/Androz2091/giveaways-bot#readme",
+    "dependencies": {
+        "discord-giveaways": "^6.0.0",
+        "discord-sync-commands": "^0.3.0",
+        "discord.js": "^14.0.3",
+        "ms": "^2.1.2"
+    }
+}
